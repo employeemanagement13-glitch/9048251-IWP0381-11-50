@@ -1,0 +1,7 @@
+-- ============================================================================
+-- MDOS — DAY 5 SCHEMA
+-- All Day 5 database objects (tenant_settings, tenant_alert_settings,
+-- admin_logs, global_feature_flags, tenant_feature_flags, global_alert_settings,
+-- and admin_broadcast_banners) are already pre-defined in the core v7/v8 schemas.
+-- No new database migrations are required for Day 5.
+-- ============================================================================
